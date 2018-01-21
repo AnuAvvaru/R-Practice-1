@@ -37,14 +37,14 @@ plotting a histogram
 
     hist(weight)
 
-![]unnamed-chunk-2-1.png)
+![](unnamed-chunk-2-1.png)
 \#plotting a scatter
 
     plot(weight)
 
-![]unnamed-chunk-3-1.png
+![](unnamed-chunk-3-1.png)
 \#plotting a Box plot
 
     boxplot(weight)
 
-![]unnamed-chunk-4-1.png
+![](unnamed-chunk-4-1.png)
